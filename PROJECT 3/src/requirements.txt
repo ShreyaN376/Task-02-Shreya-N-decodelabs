@@ -1,0 +1,6 @@
+No external dependencies are required.
+
+The project uses Python's built-in:
+
+random
+string
